@@ -1,9 +1,30 @@
-.landing-container {
-    text-align: center;
-    margin-top: 50px;
-  }
-  
-  button {
-    margin: 10px;
-  }
-  
+.landing-page {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #008CBA;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.features {
+  margin: 20px 0;
+}
+
+footer {
+  margin-top: 20px;
+  font-size: 0.8em;
+}
